@@ -1,0 +1,7 @@
+2021-09-25 12:23:48,836 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-25 12:23:48,840 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-25 12:24:33,325 [+] Reading from the file completed successfully. Servers list: []
+2021-09-25 12:24:54,052 [+] Reading from the file completed successfully. Servers list: []
+2021-09-25 12:25:59,985 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-25 12:25:59,986 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-25 12:26:14,849 [!] File 'configuration.txt' wasn't found.
