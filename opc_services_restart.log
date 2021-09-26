@@ -5,3 +5,72 @@
 2021-09-25 12:25:59,985 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
 2021-09-25 12:25:59,986 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
 2021-09-25 12:26:14,849 [!] File 'configuration.txt' wasn't found.
+2021-09-26 18:33:04,591 [!] File 'configuration.txt' wasn't found.
+2021-09-26 18:34:18,642 [!] File 'configuration.txt' wasn't found.
+2021-09-26 18:37:01,718 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:37:01,718 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:40:59,142 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:40:59,143 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:41:09,207 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:41:09,207 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:42:38,076 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:42:38,076 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:44:02,383 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:44:02,384 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:45:37,254 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:45:37,254 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:45:49,747 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:45:49,747 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:47:21,771 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:47:21,771 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:47:24,687 [!] Couldn't connect to the server 192.168.31.19asd.
+2021-09-26 18:55:06,262 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:55:06,262 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:55:14,345 [!] Couldn't connect to the server 192.168.31.19
+.
+2021-09-26 18:55:22,162 [+] The user ni_whale initiated services reboot. The reason: 'Check'.
+2021-09-26 18:57:38,153 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:57:38,154 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:57:46,527 [!] Couldn't connect to the server 192.168.31.19
+.
+2021-09-26 18:59:26,293 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:59:26,293 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 18:59:29,325 [!] Couldn't connect to the server 192.168.31.19asd.
+2021-09-26 18:59:33,877 [!] Couldn't connect to the server 192.168.31.19
+.
+2021-09-26 19:00:51,682 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 19:00:51,682 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 19:01:20,206 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 19:01:20,206 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 19:04:08,581 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 19:04:42,194 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 19:07:06,550 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 19:07:57,358 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 19:08:09,079 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 19:08:44,568 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 19:08:53,909 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19\n', '192.168.31.19asd']
+2021-09-26 19:15:53,160 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '192.168.31.19asd']
+2021-09-26 19:16:04,606 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-09-26 19:20:20,415 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '192.168.31.19asd']
+2021-09-26 19:20:25,958 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-09-26 19:36:51,951 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '192.168.31.19asd']
+2021-09-26 19:37:11,767 [+] The user 'ni_whale' initiated services reboot. The reason: 'Attempt to stop the service "WSearch"'.
+2021-09-26 19:37:17,151 Restart of services on the 192.168.31.19 was done successfully!
+2021-09-26 19:38:14,904 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '192.168.31.19asd']
+2021-09-26 19:38:17,847 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-09-26 19:40:22,032 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '192.168.31.19asd']
+2021-09-26 19:40:34,573 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-09-26 19:40:40,848 Restart of services on the 192.168.31.19 was done successfully!
+2021-09-26 19:47:45,040 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '192.168.31.19asd']
+2021-09-26 19:47:50,806 [+] The user 'ni_whale' initiated services reboot. The reason: 'qwe'.
+2021-09-26 19:48:33,012 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '192.168.31.19asd']
+2021-09-26 19:48:36,703 [+] The user 'ni_whale' initiated services reboot. The reason: 'asd'.
+2021-09-26 19:49:42,111 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '192.168.31.19asd']
+2021-09-26 19:49:46,104 [+] The user 'ni_whale' initiated services reboot. The reason: 'qwe'.
+2021-09-26 19:49:52,539 Restart of services on the 192.168.31.19 was done successfully!
+2021-09-26 19:49:57,271 [+] The user 'ni_whale' initiated services reboot. The reason: 'qwe'.
+2021-09-26 19:50:03,562 Restart of services on the 192.168.31.19 was done successfully!
+2021-09-26 19:50:11,571 [+] The user 'ni_whale' initiated services reboot. The reason: 'qwe'.
+2021-09-26 19:50:14,034 Restart of services on the 192.168.31.19 was done successfully!
+2021-09-26 19:50:19,674 [+] The user 'ni_whale' initiated services reboot. The reason: 'qwe'.
+2021-09-26 19:50:22,355 Restart of services on the 192.168.31.19 was done successfully!
