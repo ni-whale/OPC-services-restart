@@ -100,7 +100,7 @@ def services_restart(connection, service_name):
 def remote_connection():
     global remote_pc, SERVICES
     try:
-        connection = wmi.WMI(remote_pc, user=r"pcg\svcbackups", password="pcgbackups")
+        connection = wmi.WMI(remote_pc, user=r"", password="")
         logging.info(f"[+] The user '{current_user()}' initiated services reboot. The reason: '{e_comment.get()}'.")
     except:
         logging.error(f"[!] Couldn't connect to the server {remote_pc}.")
