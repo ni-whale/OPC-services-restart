@@ -3,6 +3,7 @@ import logging
 from tkinter import *
 from tkinter import messagebox
 import os
+from time import sleep
 
 logging.basicConfig(filename='opc_services_restart.log', level=logging.INFO, format='%(asctime)s %(message)s')
 logging.basicConfig(filename='opc_services_restart.log', level=logging.ERROR, format='%(asctime)s %(message)s')
@@ -14,7 +15,7 @@ DARK_BLUE = "#548CA8"
 GRAY = "#EEEEEE"
 FONT = ("Courier", 12, "normal")
 remote_pc = "None"
-
+SERVICES = ["OPCServer.WinCC", "OpcEnum"]
 
 # ---------------------------- FUNCTIONS ------------------------------- #
 def current_user():
@@ -47,48 +48,71 @@ def radiobutton_2():
     remote_pc = pc_2
 
 
-def services_restart(connection, service_name):
-    # TODO Need to add logging for each action the function does
-    # TODO Need to check state of the service before any actions
+def service_state(connection, service_name):
+    if len(connection.Win32_Service(Name=service_name, State="Running")) != 0:
+        return 1
+    else:
+        logging.error(f"[!] Seems that service {service_name} was stopped before app started running.")
+        return False
+
+
+def getting_list_of_services(connection):
+    list_of_services = []
+    for service in connection.Win32_Service():
+        list_of_services.append(service.Name)
+
+        with open("list_of_services.txt", "w") as data_file:
+            for service in list_of_services:
+                data_file.write(f"{service}\n")
+
+def stop_service(connection, service_name):
     for service in connection.Win32_Service(Name=service_name):
         result, = service.StopService()
         if result == 0:
-            print("Service", service.Name, "stopped")
+            logging.info(f"[+] Service {service.Name} was stopped.")
         else:
-            print("Some problem")
+            logging.error(f"[!] Some issue with {service.Name} appeared.")
         break
     else:
-        print("Service not found")
+        logging.error(f"[!] Service {service_name} wasn't found.")
+
+def start_service(connection, service_name):
     for service in connection.Win32_Service(Name=service_name):
         result, = service.StartService()
         if result == 0:
-            print("Service", service.Name, "started")
+            logging.info(f"[+] Service {service.Name} was started.")
         else:
-            print("Some problem")
+            logging.error(f"[!] Some issue with {service.Name} appeared.")
         break
     else:
-        print("Service not found")
+        logging.error(f"[!] Service {service_name} wasn't found.")
+
+
+def services_restart(connection, service_name):
+    # TODO Need to add logging for each action the function does
+    if service_state(connection, service_name) == 1:
+        stop_service(connection, service_name)
+        start_service(connection, service_name)
+    else:
+        start_service(connection, service_name)
 
 
 def remote_connection():
-    global remote_pc
+    global remote_pc, SERVICES
     try:
-        connection = wmi.WMI(remote_pc, user=r"admin", password="p@ssword")
+        connection = wmi.WMI(remote_pc, user=r"", password="")
         logging.info(f"[+] The user '{current_user()}' initiated services reboot. The reason: '{e_comment.get()}'.")
     except:
         logging.error(f"[!] Couldn't connect to the server {remote_pc}.")
         messagebox.showerror(title="Error!", message=f"Couldn't connect to the server {remote_pc}")
     else:
-        # list_of_services = []
-        # for service in connection.Win32_Service():
-        #     list_of_services.append(service.Name)
-        #
-        #     with open("list_of_services.txt", "w") as data_file:
-        #         for service in list_of_services:
-        #             data_file.write(f"{service}\n")
-
-        # TODO I need to be able to reboot 3 services 2 times each
-        services_restart(connection, "WSearch")
+        # TODO I need to be able to reboot 2 services 2 times each
+        # service_state(connection, "WSearch")
+        for service in SERVICES:
+            services_restart(connection, service)
+        sleep(10)
+        for service in SERVICES:
+            services_restart(connection, service)
         messagebox.showinfo(title="Success!", message=f"Restart of services on the {remote_pc} was done successfully!")
         logging.info(f"Restart of services on the {remote_pc} was done successfully!")
     finally:

@@ -74,3 +74,131 @@
 2021-09-26 19:50:14,034 Restart of services on the 192.168.31.19 was done successfully!
 2021-09-26 19:50:19,674 [+] The user 'ni_whale' initiated services reboot. The reason: 'qwe'.
 2021-09-26 19:50:22,355 Restart of services on the 192.168.31.19 was done successfully!
+2021-09-27 11:55:23,476 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 11:55:50,120 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 11:56:09,599 [+] The user 'ni_whale' initiated services reboot. The reason: 'test if I can get the status of the service'.
+2021-09-27 11:58:41,362 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 11:58:45,151 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-09-27 12:01:05,900 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:01:09,956 [+] The user 'ni_whale' initiated services reboot. The reason: 'asd'.
+2021-09-27 12:02:08,459 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:02:13,271 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-09-27 12:02:57,074 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:03:02,294 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-09-27 12:06:00,137 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:06:03,185 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-09-27 12:06:07,867 Restart of services on the 192.168.0.141 was done successfully!
+2021-09-27 12:07:16,308 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:07:20,407 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-09-27 12:07:24,586 Restart of services on the 192.168.0.141 was done successfully!
+2021-09-27 12:07:39,702 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:07:41,218 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-09-27 12:07:45,162 Restart of services on the 192.168.0.141 was done successfully!
+2021-09-27 12:34:21,020 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:34:40,277 [+] The user 'ni_whale' initiated services reboot. The reason: 'test restart of the WSearch service'.
+2021-09-27 12:35:10,858 [+] Service WSearch was stopped.
+2021-09-27 12:39:47,159 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:39:53,509 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-09-27 12:40:00,338 [+] Service WSearch was stopped.
+2021-09-27 12:40:10,770 [+] Service WSearch was started.
+2021-09-27 12:40:17,261 Restart of services on the 192.168.0.141 was done successfully!
+2021-09-27 12:42:14,239 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:42:28,960 [+] The user 'ni_whale' initiated services reboot. The reason: 'trying to reboot 2 service in one time'.
+2021-09-27 12:42:30,591 [+] Service WSearch was stopped.
+2021-09-27 12:42:31,353 [!] Some issue with WSearch appeared.
+2021-09-27 12:42:31,905 [+] Service Appinfo was stopped.
+2021-09-27 12:42:32,673 [!] Some issue with Appinfo appeared.
+2021-09-27 12:42:36,796 Restart of services on the 192.168.0.141 was done successfully!
+2021-09-27 12:43:38,942 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:43:45,973 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-09-27 12:43:46,635 [+] Service WSearch was stopped.
+2021-09-27 12:43:47,364 [+] Service WSearch was started.
+2021-09-27 12:43:48,926 [+] Service Spooler was stopped.
+2021-09-27 12:43:49,915 [+] Service Spooler was started.
+2021-09-27 12:43:51,436 Restart of services on the 192.168.0.141 was done successfully!
+2021-09-27 12:44:58,854 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:45:03,780 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-09-27 12:45:22,134 [+] Service WSearch was stopped.
+2021-09-27 12:45:39,314 [!] Some issue with WSearch appeared.
+2021-09-27 12:45:39,760 [!] Seems that service WSearch was stopped before app started running.
+2021-09-27 12:45:41,846 [+] Service WSearch was started.
+2021-09-27 12:45:42,497 [+] Service Spooler was stopped.
+2021-09-27 12:45:43,399 [+] Service Spooler was started.
+2021-09-27 12:45:43,736 [!] Seems that service Spooler was stopped before app started running.
+2021-09-27 12:45:44,411 [!] Some issue with Spooler appeared.
+2021-09-27 12:45:48,116 Restart of services on the 192.168.0.141 was done successfully!
+2021-09-27 12:47:53,643 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:48:00,864 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-09-27 12:48:05,570 [+] Service WSearch was stopped.
+2021-09-27 12:48:34,587 [+] Service WSearch was started.
+2021-09-27 12:51:25,382 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:51:40,410 [+] The user 'ni_whale' initiated services reboot. The reason: 'sleep(3000)'.
+2021-09-27 12:51:43,982 [+] Service WSearch was stopped.
+2021-09-27 12:52:17,315 [+] Service WSearch was started.
+2021-09-27 12:55:50,115 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 12:55:59,797 [+] The user 'ni_whale' initiated services reboot. The reason: 'sleep(1000)'.
+2021-09-27 12:56:10,949 [+] Service WSearch was stopped.
+2021-09-27 12:56:12,727 [!] Some issue with WSearch appeared.
+2021-09-27 13:01:16,436 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 13:01:22,328 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-09-27 13:01:29,777 [+] Service WSearch was stopped.
+2021-09-27 13:01:30,164 [!] Some issue with WSearch appeared.
+2021-09-27 13:01:33,406 [!] Seems that service WSearch was stopped before app started running.
+2021-09-27 13:01:41,768 [+] Service WSearch was started.
+2021-09-27 13:01:43,038 [+] Service Spooler was stopped.
+2021-09-27 13:01:45,229 [+] Service Spooler was started.
+2021-09-27 13:01:48,776 [+] Service Spooler was stopped.
+2021-09-27 13:02:04,944 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 13:02:15,198 [+] The user 'ni_whale' initiated services reboot. The reason: 'sleep(3)'.
+2021-09-27 13:02:17,273 [+] Service WSearch was stopped.
+2021-09-27 13:02:24,346 [+] Service WSearch was started.
+2021-09-27 13:02:27,685 [!] Seems that service WSearch was stopped before app started running.
+2021-09-27 13:02:28,830 [!] Some issue with WSearch appeared.
+2021-09-27 13:02:29,057 [!] Seems that service Spooler was stopped before app started running.
+2021-09-27 13:02:31,158 [+] Service Spooler was started.
+2021-09-27 13:02:34,971 [+] Service Spooler was stopped.
+2021-09-27 13:02:56,400 [+] Service Spooler was started.
+2021-09-27 13:03:03,159 Restart of services on the 192.168.0.141 was done successfully!
+2021-09-27 13:04:33,296 [+] The user 'ni_whale' initiated services reboot. The reason: 'sleep(5)'.
+2021-09-27 13:04:41,425 [+] Service WSearch was stopped.
+2021-09-27 13:04:41,733 [!] Some issue with WSearch appeared.
+2021-09-27 13:04:44,981 [!] Seems that service WSearch was stopped before app started running.
+2021-09-27 13:05:00,873 [+] Service WSearch was started.
+2021-09-27 13:05:01,403 [+] Service Spooler was stopped.
+2021-09-27 13:05:01,843 [+] Service Spooler was started.
+2021-09-27 13:05:05,070 [!] Seems that service Spooler was stopped before app started running.
+2021-09-27 13:05:05,331 [!] Some issue with Spooler appeared.
+2021-09-27 13:05:10,869 Restart of services on the 192.168.0.141 was done successfully!
+2021-09-27 13:05:58,232 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 13:06:14,575 [+] The user 'ni_whale' initiated services reboot. The reason: 'sleep(5)'.
+2021-09-27 13:06:15,530 [+] Service WSearch was stopped.
+2021-09-27 13:06:41,175 [+] Service WSearch was started.
+2021-09-27 13:06:42,256 [+] Service Spooler was stopped.
+2021-09-27 13:06:42,732 [+] Service Spooler was started.
+2021-09-27 13:06:48,387 [+] Service WSearch was stopped.
+2021-09-27 13:06:48,715 [!] Some issue with WSearch appeared.
+2021-09-27 13:06:49,337 [+] Service Spooler was stopped.
+2021-09-27 13:06:49,715 [+] Service Spooler was started.
+2021-09-27 13:06:53,294 Restart of services on the 192.168.0.141 was done successfully!
+2021-09-27 13:07:41,496 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 13:07:52,385 [+] The user 'ni_whale' initiated services reboot. The reason: 'sleep(10)'.
+2021-09-27 13:07:56,113 [+] Service WSearch was stopped.
+2021-09-27 13:07:57,978 [+] Service WSearch was started.
+2021-09-27 13:07:58,528 [+] Service Spooler was stopped.
+2021-09-27 13:07:58,985 [+] Service Spooler was started.
+2021-09-27 13:08:09,847 [+] Service WSearch was stopped.
+2021-09-27 13:08:10,122 [!] Some issue with WSearch appeared.
+2021-09-27 13:08:10,662 [+] Service Spooler was stopped.
+2021-09-27 13:08:11,298 [+] Service Spooler was started.
+2021-09-27 13:08:15,293 Restart of services on the 192.168.0.141 was done successfully!
+2021-09-27 13:10:45,802 [+] Reading from the file completed successfully. Servers list: ['192.168.0.141', '192.168.0.141asd']
+2021-09-27 13:10:54,519 [+] The user 'ni_whale' initiated services reboot. The reason: 'sleep(10)'.
+2021-09-27 13:10:56,763 [!] Some issue with Schedule appeared.
+2021-09-27 13:11:21,400 [!] Some issue with Schedule appeared.
+2021-09-27 13:11:23,387 [+] Service Spooler was stopped.
+2021-09-27 13:11:27,503 [+] Service Spooler was started.
+2021-09-27 13:11:41,086 [!] Some issue with Schedule appeared.
+2021-09-27 13:11:41,384 [!] Some issue with Schedule appeared.
+2021-09-27 13:11:47,621 [+] Service Spooler was stopped.
+2021-09-27 13:11:57,171 [+] Service Spooler was started.
+2021-09-27 13:12:00,670 Restart of services on the 192.168.0.141 was done successfully!
