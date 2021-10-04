@@ -1,2 +1,2 @@
 # Pair of PCS7 servers where possibly OPC services can be rebooted
-server1=192.168.0.141,server2=192.168.0.141asd
+server1=192.168.31.19,server2=0.0.0.0

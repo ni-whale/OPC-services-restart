@@ -202,3 +202,191 @@
 2021-09-27 13:11:47,621 [+] Service Spooler was stopped.
 2021-09-27 13:11:57,171 [+] Service Spooler was started.
 2021-09-27 13:12:00,670 Restart of services on the 192.168.0.141 was done successfully!
+2021-10-04 14:08:32,098 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 14:08:38,033 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-10-04 14:08:45,405 [!] Seems that service OPCServer.WinCC was stopped before app started running.
+2021-10-04 14:08:45,712 [-] Service OPCServer.WinCC wasn't found.
+2021-10-04 14:08:46,041 [!] Seems that service OpcEnum was stopped before app started running.
+2021-10-04 14:08:46,431 [-] Service OpcEnum wasn't found.
+2021-10-04 14:08:58,633 [!] Seems that service OPCServer.WinCC was stopped before app started running.
+2021-10-04 14:09:02,383 [-] Service OPCServer.WinCC wasn't found.
+2021-10-04 14:09:02,813 [!] Seems that service OpcEnum was stopped before app started running.
+2021-10-04 14:09:03,100 [-] Service OpcEnum wasn't found.
+2021-10-04 14:09:19,599 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 14:09:37,645 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 14:09:39,686 [-] Couldn't connect to the server 0.0.0.0.
+2021-10-04 14:23:12,840 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 14:23:17,936 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-10-04 14:23:28,002 [!] Seems that service OPCServer.WinCC was stopped before app started running.
+2021-10-04 14:23:28,312 [-] Service OPCServer.WinCC wasn't found.
+2021-10-04 14:23:28,543 [!] Seems that service OpcEnum was stopped before app started running.
+2021-10-04 14:23:28,963 [-] Service OpcEnum wasn't found.
+2021-10-04 14:23:39,452 [!] Seems that service OPCServer.WinCC was stopped before app started running.
+2021-10-04 14:23:39,819 [-] Service OPCServer.WinCC wasn't found.
+2021-10-04 14:23:40,190 [!] Seems that service OpcEnum was stopped before app started running.
+2021-10-04 14:23:40,605 [-] Service OpcEnum wasn't found.
+2021-10-04 14:23:40,998 [!] Seems that service OPCServer.WinCC was stopped before app started running.
+2021-10-04 14:23:55,065 [!] Seems that service OpcEnum was stopped before app started running.
+2021-10-04 14:23:57,164 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 14:24:38,991 [+] The user 'ni_whale' initiated services reboot. The reason: 'test'.
+2021-10-04 14:24:39,616 [!] Seems that service OPCServer.WinCC was stopped before app started running.
+2021-10-04 14:24:39,869 [-] Service OPCServer.WinCC wasn't found.
+2021-10-04 14:24:40,118 [!] Seems that service OpcEnum was stopped before app started running.
+2021-10-04 14:24:40,376 [-] Service OpcEnum wasn't found.
+2021-10-04 14:24:50,625 [!] Seems that service OPCServer.WinCC was stopped before app started running.
+2021-10-04 14:24:50,888 [-] Service OPCServer.WinCC wasn't found.
+2021-10-04 14:24:51,167 [!] Seems that service OpcEnum was stopped before app started running.
+2021-10-04 14:24:51,406 [-] Service OpcEnum wasn't found.
+2021-10-04 14:24:51,698 [!] Seems that service OPCServer.WinCC was stopped before app started running.
+2021-10-04 14:24:59,472 [!] Seems that service OpcEnum was stopped before app started running.
+2021-10-04 14:25:00,191 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 14:38:52,500 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 14:38:55,636 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-10-04 14:38:57,821 [!] Seems that service OPCServer.WinCC was stopped before app started running.
+2021-10-04 14:38:58,063 [-] Service OPCServer.WinCC wasn't found.
+2021-10-04 14:38:58,292 [!] Seems that service OpcEnum was stopped before app started running.
+2021-10-04 14:38:58,529 [-] Service OpcEnum wasn't found.
+2021-10-04 14:39:08,757 [!] Seems that service OPCServer.WinCC was stopped before app started running.
+2021-10-04 14:39:08,975 [-] Service OPCServer.WinCC wasn't found.
+2021-10-04 14:39:09,210 [!] Seems that service OpcEnum was stopped before app started running.
+2021-10-04 14:39:09,536 [-] Service OpcEnum wasn't found.
+2021-10-04 14:39:09,766 [!] Seems that service OPCServer.WinCC was stopped before app started running.
+2021-10-04 14:39:58,371 [!] Seems that service OpcEnum was stopped before app started running.
+2021-10-04 14:40:00,208 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 14:44:05,247 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 14:44:09,562 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-10-04 14:44:16,237 [+] Service Spooler was stopped.
+2021-10-04 14:44:37,194 [+] Service Spooler was started.
+2021-10-04 14:44:37,798 [+] Service WSearch was stopped.
+2021-10-04 14:44:38,587 [+] Service WSearch was started.
+2021-10-04 14:44:49,326 [+] Service Spooler was stopped.
+2021-10-04 14:44:49,664 [+] Service Spooler was started.
+2021-10-04 14:44:50,243 [+] Service WSearch was stopped.
+2021-10-04 14:44:50,580 [-] Some issue with WSearch during the service's starting appeared.
+2021-10-04 14:44:58,629 [!] Seems that service WSearch was stopped before app started running.
+2021-10-04 14:45:04,193 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 14:49:28,727 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 14:49:50,039 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 14:52:34,213 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 14:52:40,752 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-10-04 14:52:41,838 [+] Service Spooler was stopped.
+2021-10-04 14:52:42,192 [+] Service Spooler was started.
+2021-10-04 14:52:42,785 [+] Service WSearch was stopped.
+2021-10-04 14:52:43,116 [+] Service WSearch was started.
+2021-10-04 14:52:53,589 [+] Service Spooler was stopped.
+2021-10-04 14:52:53,881 [+] Service Spooler was started.
+2021-10-04 14:52:54,414 [+] Service WSearch was stopped.
+2021-10-04 14:52:54,748 [+] Service WSearch was started.
+2021-10-04 14:52:55,208 [!] Seems that service WSearch was stopped before app started running.
+2021-10-04 14:53:00,561 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 14:53:36,927 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 14:53:39,552 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-10-04 14:53:40,069 [+] Service Spooler was stopped.
+2021-10-04 14:53:40,381 [+] Service Spooler was started.
+2021-10-04 14:53:40,919 [+] Service WSearch was stopped.
+2021-10-04 14:53:41,197 [-] Some issue with WSearch during the service's starting appeared.
+2021-10-04 14:53:51,681 [+] Service Spooler was stopped.
+2021-10-04 14:53:51,965 [+] Service Spooler was started.
+2021-10-04 14:53:52,229 [!] Seems that service WSearch was stopped before app started running.
+2021-10-04 14:53:52,585 [+] Service WSearch was started.
+2021-10-04 14:53:53,217 [!] Seems that service WSearch was stopped before app started running.
+2021-10-04 14:53:55,832 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 14:54:12,569 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-10-04 14:54:13,072 [+] Service Spooler was stopped.
+2021-10-04 14:54:13,377 [+] Service Spooler was started.
+2021-10-04 14:54:13,911 [+] Service WSearch was stopped.
+2021-10-04 14:54:14,184 [-] Some issue with WSearch during the service's starting appeared.
+2021-10-04 14:54:24,666 [+] Service Spooler was stopped.
+2021-10-04 14:54:24,950 [+] Service Spooler was started.
+2021-10-04 14:54:25,188 [!] Seems that service WSearch was stopped before app started running.
+2021-10-04 14:54:25,512 [+] Service WSearch was started.
+2021-10-04 14:54:26,196 [!] Seems that service WSearch was stopped before app started running.
+2021-10-04 14:55:11,313 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 14:57:12,811 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 14:57:17,115 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-10-04 14:57:17,726 [+] Service Spooler was stopped.
+2021-10-04 14:57:18,049 [+] Service Spooler was started.
+2021-10-04 14:57:18,650 [+] Service WSearch was stopped.
+2021-10-04 14:57:18,992 [+] Service WSearch was started.
+2021-10-04 14:57:29,467 [+] Service Spooler was stopped.
+2021-10-04 14:57:29,748 [+] Service Spooler was started.
+2021-10-04 14:57:30,274 [+] Service WSearch was stopped.
+2021-10-04 14:57:30,624 [+] Service WSearch was started.
+2021-10-04 14:57:31,248 [!] Seems that service WSearch was stopped before app started running.
+2021-10-04 14:57:33,880 [-] Service WSearch is down or missed.
+2021-10-04 14:57:33,881 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 14:59:58,450 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 15:00:02,182 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-10-04 15:00:02,770 [+] Service Spooler was stopped.
+2021-10-04 15:00:03,095 [+] Service Spooler was started.
+2021-10-04 15:00:03,689 [+] Service WSearch was stopped.
+2021-10-04 15:00:03,951 [-] Some issue with WSearch during the service's starting appeared.
+2021-10-04 15:00:14,432 [+] Service Spooler was stopped.
+2021-10-04 15:00:14,711 [+] Service Spooler was started.
+2021-10-04 15:00:14,942 [!] Seems that service WSearch was stopped before app started running.
+2021-10-04 15:00:15,251 [+] Service WSearch was started.
+2021-10-04 15:00:20,105 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 15:00:42,013 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 15:00:43,681 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-10-04 15:00:44,189 [+] Service Spooler was stopped.
+2021-10-04 15:00:44,478 [+] Service Spooler was started.
+2021-10-04 15:00:45,018 [+] Service WSearch was stopped.
+2021-10-04 15:00:45,347 [+] Service WSearch was started.
+2021-10-04 15:00:55,819 [+] Service Spooler was stopped.
+2021-10-04 15:00:56,105 [+] Service Spooler was started.
+2021-10-04 15:00:56,630 [+] Service WSearch was stopped.
+2021-10-04 15:00:56,972 [+] Service WSearch was started.
+2021-10-04 15:01:03,874 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 15:02:17,834 --------------------------------------------------------------------------
+2021-10-04 15:02:17,834 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 15:02:19,662 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-10-04 15:02:20,254 [+] Service Spooler was stopped.
+2021-10-04 15:02:20,551 [+] Service Spooler was started.
+2021-10-04 15:02:21,083 [+] Service WSearch was stopped.
+2021-10-04 15:02:21,361 [-] Some issue with WSearch during the service's starting appeared.
+2021-10-04 15:02:31,834 [+] Service Spooler was stopped.
+2021-10-04 15:02:32,118 [+] Service Spooler was started.
+2021-10-04 15:02:32,349 [!] Seems that service WSearch was stopped before app started running.
+2021-10-04 15:02:32,669 [+] Service WSearch was started.
+2021-10-04 15:02:33,150 [!] Seems that service WSearch was stopped before app started running.
+2021-10-04 15:02:36,073 [-] Service WSearch is down or missed.
+2021-10-04 15:06:03,498 ----------------------------------------------------------------------------------
+2021-10-04 15:06:03,498 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 15:06:07,383 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-10-04 15:06:09,643 [+] Service Spooler was stopped.
+2021-10-04 15:06:10,226 [+] Service Spooler was started.
+2021-10-04 15:06:10,808 [-] Some issue with EventLog during the service's stopping appeared.
+2021-10-04 15:06:11,130 [-] Some issue with EventLog during the service's starting appeared.
+2021-10-04 15:06:22,153 [+] Service Spooler was stopped.
+2021-10-04 15:06:22,702 [+] Service Spooler was started.
+2021-10-04 15:06:23,301 [-] Some issue with EventLog during the service's stopping appeared.
+2021-10-04 15:06:23,601 [-] Some issue with EventLog during the service's starting appeared.
+2021-10-04 15:06:26,401 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 15:07:33,946 ----------------------------------------------------------------------------------
+2021-10-04 15:07:33,947 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 15:07:39,943 [-] Couldn't connect to the server None.
+2021-10-04 15:07:57,858 ----------------------------------------------------------------------------------
+2021-10-04 15:07:57,858 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 15:07:59,430 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-10-04 15:08:00,002 [+] Service Spooler was stopped.
+2021-10-04 15:08:00,310 [+] Service Spooler was started.
+2021-10-04 15:08:01,127 [+] Service Themes was stopped.
+2021-10-04 15:08:01,764 [+] Service Themes was started.
+2021-10-04 15:08:12,252 [+] Service Spooler was stopped.
+2021-10-04 15:08:12,556 [+] Service Spooler was started.
+2021-10-04 15:08:13,061 [+] Service Themes was stopped.
+2021-10-04 15:08:13,349 [+] Service Themes was started.
+2021-10-04 15:08:15,730 [+] Restart of services on the 192.168.31.19 was done successfully!
+2021-10-04 15:10:49,757 ----------------------------------------------------------------------------------
+2021-10-04 15:10:49,757 [+] Reading from the file completed successfully. Servers list: ['192.168.31.19', '0.0.0.0']
+2021-10-04 15:10:53,150 [-] Couldn't connect to the server 'value is not specified'.
+2021-10-04 15:11:16,923 [+] The user 'ni_whale' initiated services reboot. The reason: ''.
+2021-10-04 15:11:18,378 [+] Service Spooler was stopped.
+2021-10-04 15:11:19,106 [+] Service Spooler was started.
+2021-10-04 15:11:19,655 [+] Service Themes was stopped.
+2021-10-04 15:11:19,944 [+] Service Themes was started.
+2021-10-04 15:11:30,447 [+] Service Spooler was stopped.
+2021-10-04 15:11:30,753 [+] Service Spooler was started.
+2021-10-04 15:11:31,267 [+] Service Themes was stopped.
+2021-10-04 15:11:31,555 [+] Service Themes was started.
+2021-10-04 15:11:34,438 [+] Restart of services on the 192.168.31.19 was done successfully!
